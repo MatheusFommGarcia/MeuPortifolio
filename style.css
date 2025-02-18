@@ -8,12 +8,18 @@ padding: 0;
 body {
 
 height: 100vh;
-background-color: rgb(255, 255, 255);
+background-color: rgba(6, 58, 101, 0.498);
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
 margin: 0;
 color: rgb(43, 0, 255);
 
+
+}
+
+.cabecalho {
+
+    padding: 2% 0% 0% 36%;
 
 }

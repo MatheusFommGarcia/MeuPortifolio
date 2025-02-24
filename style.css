@@ -58,3 +58,32 @@ margin-bottom:  15px;
 
 }
 
+.apresentacao-conteudo {
+
+width: 615px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+height: auto;
+gap: 40px;
+order: 2;
+
+}
+
+.apresentacao-conteudo-titulo {
+
+font-size: 36px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: justify;
+
+}
+
+.apresentacao-conteudo-paragrafo {
+
+font-size: 24px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: justify;
+
+}
